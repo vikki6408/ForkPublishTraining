@@ -9,7 +9,8 @@ function multiplication(a, b) {
 }
 
 function soustraction(a, b){
-    //TODO
+    let difference = a - b;
+    return difference;
 }
 
 function main() {
